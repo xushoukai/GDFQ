@@ -50,10 +50,12 @@ To quantize the pretrained ResNet-18 on ImageNet to 4-bit:
 
 ## Results
 
-<p align="center"><img width="95%" src="material/result1.jpg" /></p>
+|  Dataset | Model | Pretrain Top1 Acc(%) | W4A4(ours) Top1 Acc(%) |
+   | :-: | :-: | :-: | :-: |
+  | CIFAR-100 | ResNet-20| 70.33 | 63.58 ± 0.23 |
+  | ImageNet | ResNet-18 | 71.47 | 60.60 ± 0.15 |
 
-<p align="center"><img width="95%" src="material/result2.jpg" /></p>
-
+Note that we use the pretrained models from [pytorchcv](https://www.cnpython.com/pypi/pytorchcv).
 <br/>
 
 ## Citation

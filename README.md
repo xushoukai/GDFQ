@@ -7,6 +7,7 @@ We provide PyTorch implementation for "Generative Low bitwidth Data Free Quantiz
 Shoukai Xu<sup> *</sup>, Haokun Li<sup> *</sup>, Bohan Zhuang<sup> *</sup>, Jiezhang Cao, Jing Liu, Chuangrun Liang, Mingkui Tan<sup> *</sup> 
 The European Conference on Computer Vision(ECCV), 2020
 
+<br/>
 
 ## Dependencies
 
@@ -56,6 +57,7 @@ To quantize the pretrained ResNet-18 on ImageNet to 4-bit:
   | ImageNet | ResNet-18 | 71.47 | 60.60 ± 0.15 |
 
 Note that we use the pretrained models from [pytorchcv](https://www.cnpython.com/pypi/pytorchcv).
+
 <br/>
 
 ## Citation

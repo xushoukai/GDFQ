@@ -65,7 +65,7 @@ If this work is useful for your research, please cite our [paper](https://arxiv.
 
     @InProceedings{xu2020generative,
     title = {Generative Low-bitwidth Data Free Quantization},
-    author = {Shoukai, Xu and Haokun, Li and Bohan, Zhuang and Jing, Liu and Jiezhang, Cao and Chuangrun, Liang and Mingkui, Tan},
+    author = {Shoukai, Xu and Haokun, Li and Bohan, Zhuang and Jiezhang, Cao and Jing, Liu and Chuangrun, Liang and Mingkui, Tan},
     booktitle = {The European Conference on Computer Vision},
     year = {2020}
     }

@@ -4,7 +4,7 @@ We provide PyTorch implementation for "Generative Low bitwidth Data Free Quantiz
 
 ## Paper
 * [Generative Low bitwidth Data Free Quantization](https://arxiv.org/abs/2003.03603) 
-* Shoukai Xu<sup> 1</sup>, Haokun Li<sup> 1</sup>, Bohan Zhuang<sup> 1</sup>, Jing Liu<sup> 1</sup>, Jiezhang Cao, Chuangrun Liang, Mingkui Tan<sup> *</sup> 
+* Shoukai Xu<sup> *</sup>, Haokun Li<sup> *</sup>, Bohan Zhuang<sup> *</sup>, Jing Liu, Jiezhang Cao, Chuangrun Liang, Mingkui Tan<sup> *</sup> 
 * The European Conference on Computer Vision(ECCV), 2020
 
 <br/>

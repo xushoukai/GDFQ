@@ -348,9 +348,9 @@ class ExperimentDesign:
 
 def main():
 	parser = argparse.ArgumentParser(description='Baseline')
-	parser.add_argument('conf_path', type=str, metavar='conf_path',
+	parser.add_argument('--conf_path', type=str, metavar='conf_path',
 	                    help='input the path of config file')
-	parser.add_argument('id', type=int, metavar='experiment_id',
+	parser.add_argument('--id', type=int, metavar='experiment_id',
 	                    help='Experiment ID')
 	args = parser.parse_args()
 	

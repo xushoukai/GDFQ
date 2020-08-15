@@ -43,10 +43,10 @@ We provide PyTorch implementation for "Generative Low bitwidth Data Free Quantiz
 
 To quantize the pretrained ResNet-20 on CIFAR-100 to 4-bit:
 
-    python main.py --conf_path ./cifar100_resnet20.hocon --id 01
+    python main.py --conf_path=./cifar100_resnet20.hocon --id=01
 To quantize the pretrained ResNet-18 on ImageNet to 4-bit:
 
-    python main.py --conf_path ./imagenet_resnet18.hocon --id 01
+    python main.py --conf_path=./imagenet_resnet18.hocon --id=01
 
 <br/>
 
